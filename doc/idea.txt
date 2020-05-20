@@ -1,0 +1,22 @@
+Part roguelite, part interactive fiction, & part text adventure, along
+with elements of RPG.
+
+Save, load, and create json files.
+
+It begins with character statistic customization.
+
+All the dungeon maps are generated through random roguelite dungeon
+generation algorithm.
+
+Character types:
+* based on Person object
+** Player (customizable)
+** Allies (shares player's attributes, but AI controlled)
+** NPC (only appears in town levels)
+* based on Opponent object 
+** guards (normally sees in dungeons)
+** bosses (much stronger than normal guards)
+
+Revelation(s) 4.0 - the SMT/Persona-inspired rpg game
+
+two programmers discover the digital world inside the old personal computer.
