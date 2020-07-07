@@ -32,57 +32,61 @@ level progression, they use temporary equipments and weapons to
 attack and defend themselves.
 
 Character creation:
-- Name
-- Age (matches with the player)
-- Pronouns
-- Health (HP)
-- Special Points (SP)
-- Characteristics
--- Charisma
---- Having high diplomatic skills, which able to make your opponents 
-act on your own biddings.
--- Intelligence
---- With enough knowledge about the virtual world, it can able to 
-gain more skills that can spot hidden items and opponents' social and 
-physical strength & weaknesses.
--- Attack
---- Affects your attack moves with high damage point.
--- Defense
---- Shelding off attacks from the opponents.
--- Speed
---- Who could make early moves.
--- Evasion
---- Able to dodge the opponents' moves.
-- Professions (this game's equivalent of class)
--- Office working programmer
---- Start-up
---- Conglomorate
--- Hacker
---- Blackhat
---- Whitehat
--- Day-dreamer
---- Fiction writer
---- Role-player
--- Hobbyist
---- Game developer
---- Software developer
--- either other or all
-- Equipments
--- Weapon
---- Firearm
---- Melee
--- Protections
---- Charm
---- Armor
---- Shield
-- Strengths and Weaknesses
--- Firearm
--- Melee
--- Fire
--- Ice
--- Electricity
--- Wind
--- Psi
--- Nuclear
--- Light
--- Darkness
+* Name
+* Age (matches with the player)
+* Pronouns
+* Health (HP)
+* Special Points (SP)
+* Character alignment
+* Skill stats
+** CHARISMA
+*** Having high diplomatic skills, which able to make your opponents
+    act on your own biddings.
+** INTELLIGENCE
+*** With enough knowledge about the virtual world, it can able to gain
+    more skills that can spot hidden items and opponents' social and
+    physical strength & weaknesses.
+** ATTACK
+*** Affects your attack moves with high damage point.
+** DEFENSE
+*** Shelding off attacks from the opponents.
+** SPEED
+*** Who could make early moves.
+** EVASION
+*** Able to dodge the opponents' moves.
+(CLASS IS NO LONGER AVAILABLE)
+* Professions (this game's equivalent of class)
+** Office working programmer
+*** Start-up
+*** Conglomorate
+** Hacker
+*** Blackhat
+*** Whitehat
+** Day-dreamer
+*** Fiction writer
+*** Role-player
+** Hobbyist
+*** Game developer
+*** Software developer
+** Either other or all
+(CLASS IS NO LONGER AVAILABLE)
+* Equipments - You cannot carry many equipments of each type. There is
+  no inventory bag for equipments.
+** Weapon
+*** Firearm
+*** Melee
+** Protections
+*** Charm
+*** Armor
+*** Shield
+* Strengths and Weaknesses
+** Firearm
+** Melee
+** Fire
+** Ice
+** Electricity
+** Wind
+** Psi
+** Nuclear
+** Light
+** Darkness
