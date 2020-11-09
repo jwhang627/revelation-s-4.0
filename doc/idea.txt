@@ -21,15 +21,25 @@ Character types:
 
 Revelation(s) 4.0 - the SMT/Persona-inspired rpg game
 
-Premise: two programmers discover the digital world inside the old 
-personal computer.
+Premise: two programmers discover the digital world inside the 
+old personal computer.
 
 The computer itself is a Dungeon Master of the RPG game.
 
-Character(s) didn't start with Tabula Rasa - Blank State. People with 
-competent skills don't start out with the beginning stage. Instead of 
-level progression, they use temporary equipments and weapons to 
-attack and defend themselves.
+Character(s) didn't start with Tabula Rasa - Blank State. People 
+with competent skills don't start out with the beginning stage. 
+Instead of level progression, they use temporary equipments and 
+weapons to attack and defend themselves.
+
+You need to look into Vampire the Masquerade - Bloodline for 
+stats.
+
+You also need to look at The Matrix Online. The Matrix had a 
+modular system that gave every player access to all of the 
+skills, but only allowed them to pick a certain number of skills 
+in a certain progression at a time. This allowed characters to 
+make unique classes by mixing and matching abilities and weapons 
+and was fairly intuitive despite sounding incredibly complex.
 
 Character creation:
 * Name
@@ -40,12 +50,12 @@ Character creation:
 * Character alignment
 * Skill stats
 ** CHARISMA
-*** Having high diplomatic skills, which able to make your opponents
-    act on your own biddings.
+*** Having high diplomatic skills, which able to make your 
+    opponents act on your own biddings.
 ** INTELLIGENCE
-*** With enough knowledge about the virtual world, it can able to gain
-    more skills that can spot hidden items and opponents' social and
-    physical strength & weaknesses.
+*** With enough knowledge about the virtual world, it can able 
+    to gain more skills that can spot hidden items and 
+    opponents' social and physical strength & weaknesses.
 ** ATTACK
 *** Affects your attack moves with high damage point.
 ** DEFENSE
