@@ -41,6 +41,8 @@ in a certain progression at a time. This allowed characters to
 make unique classes by mixing and matching abilities and weapons 
 and was fairly intuitive despite sounding incredibly complex.
 
+Maybe making it into Earthbound-like would help the project.
+
 Character creation:
 * Name
 * Age (matches with the player)
