@@ -66,6 +66,9 @@ Character creation:
 *** Who could make early moves.
 ** EVASION
 *** Able to dodge the opponents' moves.
+
+THIS WILL BE BASED ON FATE CORE SYSTEM
+
 (CLASS IS NO LONGER AVAILABLE)
 * Professions (this game's equivalent of class)
 ** Office working programmer
